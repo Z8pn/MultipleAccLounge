@@ -9,5 +9,7 @@ I remade it to fit into Firefox via GreaseMonkey ( also TamperMonkey for Chrome 
   Yea but i couldn´t find anything about it on the Internet ( that there was something for Firefox ), so i "converted" it.
   
   
-#[Install Button](LOL)
+#[Install](https://raw.githubusercontent.com/Z8pn/MultipleAccLounge/master/main.user.js)
+
+Basic how to Use : [Click](http://i.imgur.com/HDCHpky.gif)
 
